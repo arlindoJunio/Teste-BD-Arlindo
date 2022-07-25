@@ -1,7 +1,5 @@
 # Teste-DB-Arlindo
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/102973510/180849960-546cef53-e5f6-4d2b-b406-0cfa5131f067.png)
-
 </p>
 <p align="center">
 </p>
